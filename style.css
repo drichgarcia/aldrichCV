@@ -1,83 +1,67 @@
-* {
-    max-width: 1000px;
-    margin: auto;
+ 
+body {background-color: #3a3a3a;
+      max-width: 700px;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      color :#ffff;
+ }
+.image {
+    margin-left: auto;
+    margin-right: auto;
 }
-  div {
-    border-radius: 10px;
-  }
-  
-  #header {
-    height: 40px;
-    width: 100%;
-    background-color: #ffffff;
-    position: fixed;
-    z-index: 1;
-  }
-  
-  #title {
-    margin-left: 3%;
-  }
-  
-  #footer {
-    height: 50px;
-    width: 100%;
-    background-color: #ffffff;
-    clear: both;
-    position: relative;
-  }
-  
-  .left {
-    height: 1000px;
-    width: 45px;
-    background-color: #ffffff;
-    float: left;
-    position: fixed;
-  }
-  
-  .right {
-    height: 1000px;
-    width: 100px;
-    background-color: #ffffff;
-    float: right;
-    position: inherit;
-  }
-  
-  .stuff {
-    display: inline-block;
-    margin-top: 6px;
-    margin-left: 55px;
-    width: 75%;
-    height: 1000px;
-  }
-  
-  p,
-  li {
-    font-family: 'Cormorant Garamond';
-  }
-  
-  .head {
-    font-size: 20px;
-  }
-  
-  #name {
-    font-family: Sacramento;
-    float: right;
-    margin-top: 10px;
-    margin-right: 4%;
-  }
-  
-  a {
-    color: black;
-    text-decoration: none;
-  }
-  
-  @media only screen and (max-width: 430px) {
-    .left,
-    .right {
-      display: none;
-    }
-    .stuff {
-      width: 100%;
-      margin-left: 10px;
-    }
-  }
+    
+ .educ {
+     margin-right: auto;
+     margin-left: auto;
+ }
+    
+.perso {
+    margin-right: auto;
+    margin-bottom: auto;
+ }
+.personal {
+    background-color: rgb(173, 50, 50);
+ }
+    
+#ob {
+    background-color: rgb(173, 50, 50);     
+ }
+    
+#image {
+    background-color: rgb(173, 50, 50);
+ }
+    
+#car {
+    background-color: rgb(173, 50, 50);
+}
+#ski {
+background-color: rgb(173, 50, 50);
+}
+ #educa {
+    background-color: rgb(173, 50, 50);
+}
+    
+#blind {
+    background-color: rgb(173, 50, 50);
+}
+
+#body {
+		align-content: center;
+	    position: relative;
+	    text-align: left;
+	    font-family: fantasy;
+	    font-size: 20px;
+	    text-align: justify;
+	    margin-left: 100px;
+	    margin-right: 100px;
+	    width: 80%;
+	    height: auto;
+}
+img {
+    border: 5px solid #100;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+}
+
