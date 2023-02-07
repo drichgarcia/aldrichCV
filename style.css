@@ -47,16 +47,16 @@ background-color: #CD5C5C;
 }
 
 #body {
-		align-content: center;
-	    position: relative;
-	    text-align: left;
-	    font-family: fantasy;
-	    font-size: 20px;
-	    text-align: justify;
-	    margin-left: 100px;
-	    margin-right: 100px;
-	    width: 80%;
-	    height: auto;
+	align-content: center;
+	position: relative;
+	text-align: left;
+	font-family: fantasy;
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 80%;
+	height: auto;
 }
 img {
     border: 5px solid #100;
