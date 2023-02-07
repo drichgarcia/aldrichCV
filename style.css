@@ -1,5 +1,5 @@
  
-body {background-color: #3a3a3a;
+body {background-color: #525252;
       max-width: 700px;
       margin: auto;
       margin-top: 50px;
@@ -15,35 +15,35 @@ body {background-color: #3a3a3a;
      margin-right: auto;
      margin-left: auto;
  }
-    
+
 .perso {
     margin-right: auto;
     margin-bottom: auto;
  }
 .personal {
-    background-color: rgb(173, 50, 50);
+    background-color: #CD5C5C;
  }
     
 #ob {
-    background-color: rgb(173, 50, 50);     
+    background-color: #CD5C5C;    
  }
     
 #image {
-    background-color: rgb(173, 50, 50);
+    background-color: #CD5C5C;
  }
     
 #car {
-    background-color: rgb(173, 50, 50);
+    background-color: #CD5C5C;
 }
 #ski {
-background-color: rgb(173, 50, 50);
+background-color: #CD5C5C;
 }
  #educa {
-    background-color: rgb(173, 50, 50);
+    background-color: #CD5C5C;
 }
     
 #blind {
-    background-color: rgb(173, 50, 50);
+    background-color: #CD5C5C;
 }
 
 #body {
